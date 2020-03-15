@@ -4,35 +4,7 @@ InstaHub ist ein soziales Netzwerk ähnlich Instagram, welches im  Unterricht zu
 
 Schüler sind in InstaHub nicht Nutzer, sondern selbst  Administratoren. Sie haben so vollen Zugriff auf alle Funktionen des  sozialen Netzwerks, die in echten Netzwerken verborgen sind. 
 
-Mit InstaHub können folgende Lernziele erreicht werden:
-
-* Datenbanken
-  * SQL - SELECT, INSERT UPDATE DELETE in einer und mehreren Tabellen
-  * Anforderungen an ein Datenbank-Managementsystem
-* Entity-Relationship-Modell verstehen und zeichnen.
-* Einblick in Benutzertracking
-* Erstellen von personalisierte Werbung 
-* Einblick in die Funktion von Werbeblockern
-* Bedeutung von Datenschutz und Datensicherheit erkennen
-* Client Server Architektur einer Webanwendung
-
-Der Vorgänger von InstaHub ist die [friendzone](https://blog.wi-wissen.de/post/friendzone). Diese wurde 2017 mit dem [Unterrichtspreis der Gesellschaft für Informatik](https://www.gi.de/aktuelles/meldungen/detailansicht/article/julian-dorn-erhaelt-unterrichtspreis-2017-der-gesellschaft-fuer-informatik-fuer-friendzone.html) ausgezeichnet.
-
-# Gliederung der Dokumentation
-
-Diese Dokumentation richtet sich hauptsächlich an Lehrkräfte. Es werden folgende Themenbereiche behandelt:
-
-**[Bedienung](frontend)** - hier wird die Bedienung von InstaHub besonders aus der Sicht für Lehrkräfte vorgestellt.
-
-[**Didaktik**](didactic) - hier wird ein Vorschlag zur didaktischen Nutzung von InstaHub gemacht.
-
-[**Übungen**](exercices) - hier sind Vorschläge für Aufgabenstellungen an die Schüler.
-
-# Mitmachen!
-
-Die Plattform InstaHub und diese Dokumentation sind im Quelltext vollständig verfügbar. Durch offene Lizenzen ist es möglich, sowohl die technische Plattform als auch diese Dokumentation nach eigenen Wünschen zu gestalten.
-
-In dieses Projekt ist bereits sehr viel Energie, Freude und viele Erfahrungen eingeflossen. Wenn Sie neue tolle Ideen oder auch nur einen Rechtschreibfehler gefunden haben, wäre es sehr schön wenn Sie diese einbringen würden. Das geht ganz einfach indem Sie Ihre Änderungen direkt als Push Request bei GitHub einreichen. Alternativ können Sie auch gerne eine E-Mail senden.
+Bitte lesen Sie die [Liesmich-Datei](readme.md) für weitere Informationen.
 
 # Nur möglich durch
 
