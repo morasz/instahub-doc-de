@@ -6,7 +6,7 @@ Schüler sind in InstaHub nicht Nutzer, sondern selbst  Administratoren. Sie hab
 
 Das Skript ist für die Berufsoberschule und das Berufliche Gymnasium entwickelt worden. In dieser Form sollte (ähnlich wie beim Ansatz von Julian Dorn) etwa ein Halbjahr (2 Stunden pro Woche) angesetzt werden.
 
-Bitte lesen Sie die [Liesmich-Datei](readme.md) für weitere Informationen.
+**Bitte lesen Sie die [Liesmich-Datei](readme.md) für weitere Informationen.**
 
 # Nur möglich durch
 
