@@ -1,4 +1,4 @@
-## Datenbanken 
+## Datenbanken
 ### Eine Einführung mit InstaHub
 + [01 Vorwort](01-Vorwort.md)
 + [02 Einstimmung](02-Einstimmung.md)
@@ -13,11 +13,11 @@
 + [11 JOIN](11-JOIN.md)
 + [12 komplexe SQL-Abfragen](12-komplexe-SQL-Abfragen.md)
 + [13 komplexe CRUD-Befehle](13-komplexe-CRUD-Befehle.md)
-+ 14 Big Data
-+ 15 Datenschutz
-+ 16 Normalisierung
-+ 17 ERM und Tabellenmodell
-+ 18 ERM entwickeln
++ [14 Big Data](14-Big-Data.md)
++ [15 Datenschutz](15-Datenschutz.md)
++ [16 Normalisierung](16-Normalisierung.md)
++ [17 ERM und Tabellenmodell](17-ERM-und-Tabellenmodell)
++ [18 ERM entwickeln](18-ERM-entwickeln)
 + [19 Top 10 der Themen, die wir nicht behandelt haben](19-Top-10.md)
 + [20 SQL Cheat-Sheet](20-SQL-CheatSheet.md)
 -----
