@@ -20,7 +20,7 @@ Idee: Damit kann man KMK-konform unterschiedliche Medien ausprobieren und evauli
 
 ## Moodle-Kurs
 
-[Moodle](https://github.com/RNitzsche/instahub-doc-de/blob/master/02-Einstimmung.md/Moodle): es gibt einen (leider korrekturintensiven) Moodle-Kurs dazu.
+[Moodle (Onedrive, 50MB)](https://1drv.ms/u/s!AugTRHF_26_Mh6dHLklj9jjbZCnlaQ?e=CD9fyO): es gibt einen (leider korrekturintensiven) Moodle-Kurs dazu.
 
 ## Kapitel
 + [01 Vorwort](https://github.com/RNitzsche/instahub-doc-de/blob/master/01-Vorwort.md)
