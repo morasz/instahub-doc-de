@@ -26,6 +26,11 @@ Idee: Damit kann man KMK-konform unterschiedliche Medien ausprobieren und evauli
 
 [Moodle (Onedrive, 50MB)](https://1drv.ms/u/s!AugTRHF_26_Mh6dHLklj9jjbZCnlaQ?e=CD9fyO): es gibt einen (leider korrekturintensiven) Moodle-Kurs dazu.
 
+Zur vollständigen Unterstützung benötigt ihr einen Moodle-Server mit aktiviertem:
++ Stash (https://moodle.org/plugins/block_stash)
++ Lernpaket (https://docs.moodle.org/38/de/Lernpaket)
+... aber ohne sollte es eigentlich auch gehen.
+
 ## Kapitel
 + [01 Vorwort](https://github.com/RNitzsche/instahub-doc-de/blob/master/01-Vorwort.md)
 + [02 Einstimmung](https://github.com/RNitzsche/instahub-doc-de/blob/master/02-Einstimmung.md)
