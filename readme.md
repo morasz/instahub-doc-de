@@ -26,7 +26,7 @@ Idee: Damit kann man KMK-konform unterschiedliche Medien ausprobieren und evauli
 + [01 Vorwort](https://github.com/RNitzsche/instahub-doc-de/blob/master/01-Vorwort.md)
 + [02 Einstimmung](https://github.com/RNitzsche/instahub-doc-de/blob/master/02-Einstimmung.md)
 + [03 Erste Schritte](https://github.com/RNitzsche/instahub-doc-de/blob/master/03-Erste-Schritte.md)
-+ [04 Suchmaske]](https://github.com/RNitzsche/instahub-doc-de/blob/master/04-Suchmaske.md)
++ [04 Suchmaske](https://github.com/RNitzsche/instahub-doc-de/blob/master/04-Suchmaske.md)
 + [05 Einfache SQL-Abfragen](https://github.com/RNitzsche/instahub-doc-de/blob/master/05-Einfache-SQL-Abfragen.md)
 + [06 SQL-Abfragen mit einer Tabelle](https://github.com/RNitzsche/instahub-doc-de/blob/master/06-SQL-Abfragen-mit-einer-Tabelle.md)  
 + [07 Daten ändern](https://github.com/RNitzsche/instahub-doc-de/blob/master/07-Daten-aendern.md)
