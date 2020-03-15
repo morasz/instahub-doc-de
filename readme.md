@@ -9,7 +9,7 @@ Online: https://wi-wissen.github.io/instahub-doc-de/
 **Das Skript ermöglicht ein weitgehend selbstgesteuertes Vorgehen der Schüler/-innen.
 Es ist nicht so perfekt dokumentiert und vollständig, wie es sein sollte, aber evtl. hilft es in Coronazeiten in halbgarem Zustand mehr als in 100% in einigen Monaten.**
 
-**Das Skript ist für die Berufsoberschule und das Berufliche Gymnasium entwickelt worden. In dieser Form sollte (ähnlich wie beim Ansatz von Julian Dorn) etwa ein Halbjahr (2 Stunden pro Woche) angesetzt werden.**
+**Das Skript ist für die Berufsoberschule und das Berufliche Gymnasium entwickelt worden. Es sollte aber auch allgemein in der Sek II  einsetzbar sein. In dieser Form sollte (ähnlich wie beim Ansatz von Julian Dorn) etwa ein Halbjahr (2 Stunden pro Woche) angesetzt werden. **
 
 ## Ein Skript in mehreren Formen (Cross-Media)
 
