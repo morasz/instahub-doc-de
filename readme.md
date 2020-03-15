@@ -2,7 +2,9 @@
 
 German script for pupils for [InstaHub](https://github.com/wi-wissen/InstaHub). Please help to translate!
 
-Online: https://wi-wissen.github.io/instahub-doc-de/
+**GitHub Pages: https://rnitzsche.github.io/instahub-doc-de/ **
+
+Online-Dokumentation von Julian Dorn: https://wi-wissen.github.io/instahub-doc-de/
 
 ## Über
 
