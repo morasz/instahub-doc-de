@@ -1,0 +1,41 @@
+body, p, blockquote, li {
+	text-align: left important!;
+	font-family: Liberation Sans, Sans-Serif, Arial;
+}
+pre {
+	background-color: #ffffcc;
+	border: 1px solid #ffdddd;
+	padding: 2px;
+	font-size: 85%;
+}
+figcaption {
+	font-size: 85%;
+	font-style: italic;
+}
+h4 span.header-section-number {
+	display: none !important;
+}
+
+h4 {
+	font-size: 130% !important;
+	margin-top: 0px !important;
+	padding-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-bottom: 0px !important;
+}
+h4 + p {
+	margin-top: 0px !important;
+	padding-top: 0px !important;
+}
+section.level4 {
+	background-color: #ffdddd !important;
+	padding-right: 5px !important;
+	padding-left: 5px !important;
+}
+h1 span.header-section-number {
+	font-size: 200%;
+	color: #aa0000;
+}
+img {
+	max-width:100%;
+}
