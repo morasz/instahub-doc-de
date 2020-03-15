@@ -4,6 +4,8 @@ InstaHub ist ein soziales Netzwerk ähnlich Instagram, welches im  Unterricht zu
 
 Schüler sind in InstaHub nicht Nutzer, sondern selbst  Administratoren. Sie haben so vollen Zugriff auf alle Funktionen des  sozialen Netzwerks, die in echten Netzwerken verborgen sind. 
 
+Das Skript ist für die Berufsoberschule und das Berufliche Gymnasium entwickelt worden. In dieser Form sollte (ähnlich wie beim Ansatz von Julian Dorn) etwa ein Halbjahr (2 Stunden pro Woche) angesetzt werden.
+
 Bitte lesen Sie die [Liesmich-Datei](readme.md) für weitere Informationen.
 
 # Nur möglich durch
