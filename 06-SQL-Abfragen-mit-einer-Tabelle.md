@@ -63,7 +63,7 @@ Aber was, wenn wir wissen wollen, wie groß unser größtes Mitglied in jeder St
 
 Die Lösung hierfür heißt Aggregat (aggregieren: lat. _anhäufen)_. Die Idee ist in der folgenden Abbildung dargestellt:
 
-![Aggregate fassen mehrere Datensätze zusammen](assets/06-Aggregat.png)
+![Aggregate fassen mehrere Datensätze zusammen](Assets/06-Aggregat.png)
 
 Aggregate fassen also mehrere Zeilen der Quelltabellen zu einer einzigen Zeile in der Ergebnistabelle zusammen.
 

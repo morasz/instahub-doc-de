@@ -15,15 +15,15 @@ Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
 2. *Klicken* Sie unten mittig auf den Button `SchülerInnen`:
 
-![Einen eigenen InstaHub anlegen - Schritt 1](assets/03-CreateInstahub-1.png)
+![Einen eigenen InstaHub anlegen - Schritt 1](Assets/03-CreateInstahub-1.png)
 
 3. Klicken Sie auf `Hub erstellen`:
 
-![Einen eigenen InstaHub anlegen - Schritt 2](assets/03-CreateInstaHub-2.png)
+![Einen eigenen InstaHub anlegen - Schritt 2](Assets/03-CreateInstaHub-2.png)
 
 4. Sie sehen das folgende Formular (Ausschnitt):
 
-![Einen eigenen InstaHub anlegen - Schritt 3 (Ausschnitt)](assets/03-CreateInstaHub-3.png)
+![Einen eigenen InstaHub anlegen - Schritt 3 (Ausschnitt)](Assets/03-CreateInstaHub-3.png)
 
 5. _Notieren_ Sie sich __jetzt__ den Namen Ihres InstaHubs (im Beispiel: `rubinrot18`): ______________________.
 
@@ -49,17 +49,17 @@ Nachdem Ihre Lehrkraft Ihren InstaHub nun freigeschaltet hat, können Sie Ihren 
 
 1. Melden Sie sich unter https://rubinrot18.instahub.org/login anmelden, wobei Sie `rubinrot18` durch den Namen Ihres InstaHubs ersetzen. Zum Glück haben Sie sich vorhin den Namen Ihres InstaHubs notiert... Ihr Benutzername lautet `admin`.
 
-![Login auf Ihrem InstaHub](assets/03-LogInInstaHub-1.png)
+![Login auf Ihrem InstaHub](Assets/03-LogInInstaHub-1.png)
 
 2. Nach dem erfolgreichen Login sehen Sie die derzeit noch recht leere Startseite von InstaHub:
 
-![Startseite von InstaHub](assets/03-LogInInstaHub-2.png)
+![Startseite von InstaHub](Assets/03-LogInInstaHub-2.png)
 
    Sie erreichen die Startseite immer wieder, wenn Sie auf das **Fotoapparat-Symbol** oben links klicken.
 
 3. Ein Klick auf das **Kompass-Symbol** bringt Sie zur Nutzerübersicht:
 
-![Nutzerübersicht](assets/03-LogInInstaHub-3.png)
+![Nutzerübersicht](Assets/03-LogInInstaHub-3.png)
 
    Wie Sie sehen Sie, haben sich ganz ohne Ihr Zutun schon etwa 200 Nutzer\*innen an Ihrem InstaHub angemeldet.[^21]
 

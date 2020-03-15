@@ -11,11 +11,11 @@ SQL (_structured query language_) ist eine Programmiersprache, mit der man auf D
 1. Klicken oben rechts auf das Symbol *Datenbank* und wählen Sie ``SQL``:
    
 
-![Den SQL-Editor öffnen](assets/05-SQL-1.png)
+![Den SQL-Editor öffnen](Assets/05-SQL-1.png)
 
 3. Sie gelangen in den SQL-Editor:			
 
-![Der SQL-Editor](assets/05-SQL-2.png)
+![Der SQL-Editor](Assets/05-SQL-2.png)
 
 4. Setzen Sie den Cursor in das leere, im obigen Screenshot rot markierten, Eingabefeld und tippen Sie die folgende SQL-Abfrage exakt so ein:
 
@@ -28,7 +28,7 @@ SQL (_structured query language_) ist eine Programmiersprache, mit der man auf D
 
 5. Klicken Sie auf `Ausführen`! Sie sehen nun eine Ergebnistabelle mit gut 200 Zeilen:
 
-![Das Ergebnis Ihres ersten SELECT-Befehls](assets/05-SQL-3.png)
+![Das Ergebnis Ihres ersten SELECT-Befehls](Assets/05-SQL-3.png)
 
 ### Tipps:{-}
 

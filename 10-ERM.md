@@ -6,13 +6,13 @@
 
 _Beschreiben_ Sie in eigenen Worten, was das folgende ER-Modell modelliert! 
 
-![Mitarbeiter\*innen fahren Dienstwagen](assets/10-ER-Dienstwagen.png)
+![Mitarbeiter\*innen fahren Dienstwagen](Assets/10-ER-Dienstwagen.png)
 
 #### Aufgabe 10.2 ER-Diagramm interpretieren Mann und Frau {-}
 
 _Beschreiben_ Sie in eigenen Worten, was das folgende ER-Modell modelliert. _Beurteilen_ Sie es! Berücksichtigen Sie dabei die deutsche Rechtsordnung und gesellschaftliche Erwartungen!
 
-![Männer sind mit Frauen verheiratet](assets/10-ER-Mann-Frau.png)
+![Männer sind mit Frauen verheiratet](Assets/10-ER-Mann-Frau.png)
 
 ##   Kardinalitäten verwenden
 
@@ -20,13 +20,13 @@ _Beschreiben_ Sie in eigenen Worten, was das folgende ER-Modell modelliert. _Beu
 
 _Notieren_ Sie in den folgenden ER-Diagrammen jeweils die Kardinalitäten!
 
-![Männer sind Väter von Kindern](assets/10-ER-Kardinalitaet-Kind.png)
+![Männer sind Väter von Kindern](Assets/10-ER-Kardinalitaet-Kind.png)
 
-![Männer sind Geliebte von Frauen](assets/10-ER-Kardinalitaet-Geliebter.png)
+![Männer sind Geliebte von Frauen](Assets/10-ER-Kardinalitaet-Geliebter.png)
 
-![Personen sind Fans von Fußballvereinen](assets/10-ER-Kardinalitaet-Fussballverein.png)
+![Personen sind Fans von Fußballvereinen](Assets/10-ER-Kardinalitaet-Fussballverein.png)
 
-![Personen sind bester Freunde von Personen](assets/10-ER-Kardinalitaet-Bester-Freund.png)
+![Personen sind bester Freunde von Personen](Assets/10-ER-Kardinalitaet-Bester-Freund.png)
 
 ## Schlüssel
 
@@ -36,11 +36,11 @@ Schlüssel sind Mengen von Attributen, die ein Exemplar einer Entität identifiz
 
 Dabei werden die in der folgenden Abbildung ersichtlichen Schlüsselarten unterschieden:
 
-![Schlüsselarten](assets/10-Schluessel.png)
+![Schlüsselarten](Assets/10-Schluessel.png)
 
 Diese Schlüsselarten sehen wir uns an Hand eines Beispiels genauer an. Die folgende Abbildung zeigt einen Ausschnitt eines ERM für die Verwaltung einer Hochschule:
 
-![ER-Modell einer Hochschulverwaltung (Ausschnitt)](assets/10-ERM-Student.png)
+![ER-Modell einer Hochschulverwaltung (Ausschnitt)](Assets/10-ERM-Student.png)
 
 + **Superschlüssel** (auch "Oberschlüssel") sind *alle* Attributmengen, die identifizierend sind, den\*die Studierende\*n also eindeutig bestimmen. Es gibt also fast immer mehrere Superschlüssel:
 
@@ -58,7 +58,7 @@ Diese Schlüsselarten sehen wir uns an Hand eines Beispiels genauer an. Die folg
 
   Im ERM wird der Primärschlüssel unterstrichen:
 
-![ER-Modell einer Hochschule mit künstlichem Primärschlüssel](assets/10-ERM-Student-PK.png)
+![ER-Modell einer Hochschule mit künstlichem Primärschlüssel](Assets/10-ERM-Student-PK.png)
 
 Im obigen Beispiel dient die gelbe Färbung des Attributes "Matrikelnummer" lediglich der Hervorhebung der Änderung. Das Datenbankdesign-Team hätte sich auch für  auch jeden der anderen Schlüsselkandidaten entscheiden können. Wobei der zusammengesetzte Schlüsse sehr umfangreich und damit unpraktisch gewesen wäre. Bei der E-Mail-Adresse dachte sich das Team, dass hier Tippfehler vorkommen werden und zur Sozialversicherungsnummer hatte das Immatrikulationsbüro gesagt, dass einige Studierenden vorher nicht in Deutschland gearbeitet haben und daher keine Sozialversicherungsnummer haben. 
 
@@ -68,7 +68,7 @@ Vielleich fragen Sie sich: "Wenn es Primärschlüssel gibt, gibt dann auch **Sek
 
 Für die Lohnbuchhaltung wurde das folgende ERM entworfen (Ausschnitt):
 
-![Lohnbuchhaltung (Ausschnitt)](assets/10-ERM-Kunde.png)
+![Lohnbuchhaltung (Ausschnitt)](Assets/10-ERM-Kunde.png)
 
 1. *Ermitteln* Sie Oberschlüssel und Schlüsselkandidaten.
 2. *Entscheiden* Sie sich *begründet* für einen der Schlüsselkandidaten als Primärschlüssel.

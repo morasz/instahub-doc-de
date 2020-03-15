@@ -19,11 +19,11 @@ _Vervollständigen_ Sie die obige Abfrage!
 
 _Kontrollieren_ Sie Ihre Lösung mit Hilfe des folgenden QR-Codes:
 
-![Lösung zu Aufgabe 12.1](assets/12-qr-code-SQL-vor-HAVING.png)
+![Lösung zu Aufgabe 12.1](Assets/12-qr-code-SQL-vor-HAVING.png)
 
 Aber wie bekommen Sie nur diejenigen Nutzer\*innen angezeigt, bei denen die `COUNT`-Spalte den Wert `0` enthält? Sie könnten probieren, es mit einer `WHERE`-Klausel zu versuchen, aber das wird erfolglos sein, weil `WHERE` die Datensätze selektiert, die danach mittels `GROUP BY` gruppiert werden und nicht die gruppierten Ergebniszeilen filtert. Hierzu benötigen Sie die Klausel `HAVING`. Sie funktioniert fast genauso wie die `WHERE`-Klausel, nur dass sie aus denen durch `GROUP BY` erstellten aggregierten Zeilen diejenigen auswählt, die einem Kriterium entsprechen. Dies wird in der folgenden Abbildung veranschaulicht:
 
-![Zusammenhang zwischen WHERE und HAVING](assets/12-WHERE-GROUP-HAVING.png)
+![Zusammenhang zwischen WHERE und HAVING](Assets/12-WHERE-GROUP-HAVING.png)
 
 #### Aufgabe 12.2: SQL-Abfrage vervollständigen {-}
 

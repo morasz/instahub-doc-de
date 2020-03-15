@@ -6,15 +6,15 @@ InstaHub ist ein soziales Netz, das Instagram ähnelt. Es gibt aber einen ganz w
 
 Die folgenden Screenshots geben Ihnen einen Eindruck davon, was Sie in InstaHub erwartet:
 
-![In InstaHub können Sie Fotos hochladen.](assets/02-InstaHub-Screenshot-1.png)
+![In InstaHub können Sie Fotos hochladen.](Assets/02-InstaHub-Screenshot-1.png)
 
 
 
-![Sie können Ihren Freund\*innen folgen ...](assets/02-InstaHub-Screenshot-2.png)
+![Sie können Ihren Freund\*innen folgen ...](Assets/02-InstaHub-Screenshot-2.png)
 
-![... und Ihre Freund\*innen können Ihnen folgen!](assets/02-InstaHub-Screenshot-3.png)
+![... und Ihre Freund\*innen können Ihnen folgen!](Assets/02-InstaHub-Screenshot-3.png)
 
-![Fotos können kommentiert und bewertet werden.](assets/02-InstaHub-Screenshot-4.png)
+![Fotos können kommentiert und bewertet werden.](Assets/02-InstaHub-Screenshot-4.png)
 
 InstaHub funktioniert also fast wie Instagramm. Inklusive Werbung. Der entscheidende Unterschied ist, dass alles in InstaHub fiktiv ist. Die Menschen gibt es genauso wenig wie die Unternehmen, die die Werbung schalten.
 
@@ -28,7 +28,7 @@ Im Grund stellen die meisten DBMS lediglich die Möglichkeit bereit, gigantische
 
 Wenn Sie zum Beispiel mit Google[^10] nach "instahub" suchen, schlägt Google in seinen Datenbanken nach und stellt in 0,36 s fest, dass sie fast 30 Millionen Treffer hat:
 
-![Google findet in unter einer Sekunde fast 30 Millionen Websites zum Thema "Instahub"!](assets/02-Googlesuche.png)
+![Google findet in unter einer Sekunde fast 30 Millionen Websites zum Thema "Instahub"!](Assets/02-Googlesuche.png)
 
 [^10]: Die anderen Suchmaschinen machen es genauso, aber die Zeit gibt nur Google aus... 
 
@@ -38,7 +38,7 @@ Kein Onlineshop kommt ohne Datenbanken aus - z. B. für die Produktpräsentation
 
 Aber auch beim Versand der Ware geht nichts ohne Datenbanken:
 
-![Jedes Paket hinterlässt seine Spuren in Datenbanken (Quelle: UPS.COM)](assets/02-UPS-Sendungsverfolgung.png)
+![Jedes Paket hinterlässt seine Spuren in Datenbanken (Quelle: UPS.COM)](Assets/02-UPS-Sendungsverfolgung.png)
 
 #### Aufgabe 2.1: Datenbanken sind überall {-}
 
@@ -118,7 +118,7 @@ Den Begriff "Server" kennen sie bestimmt bereits. Zum Beispiel wissen Sie, dass 
 
 Beispiel: Herr Ölgemöller arbeitet in der Buchhaltung der Hausverwaltung Sörkeling. In seinem Büro befindet sich ein Drucker, auf den er über das lokale Netz (LAN) zugreift. Der Druckserver ist ausgefallen. Obwohl sowohl sein Rechner als auch der Drucker dienstbereit sind, kann Herr Ölgemöller nicht drucken, da der vom Server angebotene Dienst "Drucken" nicht verfügbar ist.
 
-![Die Client-Server-Architektur](assets/02-Client-Server.png)
+![Die Client-Server-Architektur](Assets/02-Client-Server.png)
 
 Bei der Client-Server-Architektur gibt es mindestens zwei IT-Systeme. Das eine ist der Server, der Dienste anbietet und das andere ist der Client, der diese Dienste in Anspruch nehmen kann. Meist greifen mehrere Clients auf einen einzigen Server zu. 
 

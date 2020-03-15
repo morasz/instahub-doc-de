@@ -36,7 +36,7 @@ CREATE TABLE photos (
 
   Das Prinzip sehen Sie im folgenden Schaubild:
 
-![Fremdschlüssel verweisen auf eine andere Tabelle](assets/09-Fremdschluessel.png)
+![Fremdschlüssel verweisen auf eine andere Tabelle](Assets/09-Fremdschluessel.png)
 
 +  **`INT`** ist ein Datentyp. Jede Spalte  kann nur Werte einer bestimmten Art enthalten. Es geht also nicht, dass in einer Spalte mal eine Zahl, mal ein Text und dann wieder ein Datum steht. `INT (4)` bedeutet, dass in der Spalte ganze Zahlen (engl. _integer_) von -2.147.483.648 bis +2.147.483.647 stehen können. Da sie hier aber als `UNSIGNED` deklariert wurden, sind sie immer positiv und können von 0 bis 4.294.967.295  reichen. Die Zahl in Klammern ist von untergeordneter Bedeutung. Sie gibt an, wie viele Stellen zur Ausgabe der Zahl bereit gestellt werden sollen. 
 +  **`NULL`** bedeutet nicht "0", sondern "nichts, leer". `NULL` ist nicht gleich etwas anderem, auch nicht dem Wert 0. Wenn eine Tabellenspalte in jeder Zeile einen Wert haben soll, kann man `NOT NULL` notieren, dann wird die Datenbank dort unter keinen Umständen erlauben, nichts einzutragen. Notiert man `NULL`, erlaubt man auch leere Tabellenzellen.
@@ -72,23 +72,23 @@ Wir haben nun drei Tabellen in unserer Datenbank. Um den Überblick zu behalten,
 
 1. **Gegenstände (Entities)**: Eine *Entität* (engl. _entity_) stellt eine Klasse von *Objekten* der *realen* Welt im ER-Modell ab. Z. B. `Produkt`, `Kunde`, `Schüler` oder `Informatikkurs`. (Sie sehen, dass Objekte nicht unbedingt gegenständlich sein müssen.) Entities werden in ER-Modellen als Rechtecke dargestellt:
 
-![Entitäten werden im ERM als Rechtecke dargestellt](assets/09-ER1-Entitaeten.png)
+![Entitäten werden im ERM als Rechtecke dargestellt](Assets/09-ER1-Entitaeten.png)
 
 2. **Attribute**: Entitäten und Beziehungen haben _Eigenschaften_, die durch _Attribute_ beschrieben werden. Diese Attribute findet man in der Datenbank in den Tabellenspalten. Typische Eigenschaften für die Entität `Produkt` könnten z. B. Bezeichnung, Gewicht, Preis und Artikelnummer sein.
 
    Attribute werden in ER-Modellen als Ovale an die Entitäten angehängt. Die Primärschlüssel heißen im ER-Modell eigentlich _identifizierende Attribute_ und werden unterstrichen:
 
-![Attribute werden als Ovale angehängt](assets/09-ER1-Attribute.png)
+![Attribute werden als Ovale angehängt](Assets/09-ER1-Attribute.png)
 
 3. **Beziehungen (Relationships)**: Ein *Relationship* stellt eine Beziehung zwischen den Objekten der realen Welt dar. Z. B. die Beziehungen _kaufte_ zwischen `Kunde` und `Produkt` _besucht_ zwischen den Entitäten `Schüler` und `Informatikkurs`. Relationships verbinden _immer_ genau zwei Entitäten. Realationships werden als Raute dargestellt:
 
-![Relationships werden durch Rauten dargestellt](assets/09-ER1-Relationship.png)
+![Relationships werden durch Rauten dargestellt](Assets/09-ER1-Relationship.png)
 
 4. **Kardinalität**: Beziehungen verbinden nicht immer genau ein Exemplar einer Entität mit genau einem Exemplar einer anderen Entität. So kann ein Kunde mehrere Produkte gekauft haben.
 
    Kardinalitäten werden leider sehr verschieden notiert. Wir verwenden hier die in der folgenden Abbildung verwendete Notation: Ein bestimmte\*r Schüler*In hat genau einen (`1..1`) Informatikkurs und jeder Informatikkurs wird von 0 bis beliebig vielen Schüler\*Innen (`0..n`) besucht.)
 
-![Kardinalitäten geben an, wie viele Exemplare an dem Relationship beteilgt sind](assets/09-ER1-Kardinalitaeten.png)
+![Kardinalitäten geben an, wie viele Exemplare an dem Relationship beteilgt sind](Assets/09-ER1-Kardinalitaeten.png)
 
 **Bitte beachten Sie:** Die **Fremdschlüssel** werden im ER-Modell *nicht* notiert, nur die **Primärschlüssel**. Die Fremdschlüssel werden erst beim Umsetzen der ER-Modells in Tabellen ergänzt. Im obigen Beispiel müsste in der Tabelle `Informatikkurs` der Primärschlüssel der Entität `Schüler`, `SchülerNr` eingefügt werden. Wir werden uns in Abschnitt 10.3 und in Kapitel 17 näher mit diesem Thema beschäftigen.
 

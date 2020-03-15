@@ -4,7 +4,7 @@ Zuletzt hatten Sie in Kapitel 9 mit SQL gearbeitet. Sie hatten die neue Tabelle 
 
 ``aaron183`` ist einer Ihrer Benutzer. In der Benutzeransicht sehen Sie, dass er 12 Fotos eingestellt hat:
 
-![Aaron hat 12 Fotos eingestellt](assets/09-AaronsPhotos.png)
+![Aaron hat 12 Fotos eingestellt](Assets/09-AaronsPhotos.png)
 
 Wie bekommt InstaHub eigentlich heraus, dass ``aaron183`` 12 Fotos hochgeladen hat? In der Tabelle ``photos`` enthält das Feld ``user_id`` Werte, die in der Tabelle ``users`` in der Spalte ``id``  stehen. In Zukunft schreiben wir statt "_Die Spalte ``user_id``  in der Tabelle ``photos``_" einfach kurz "_``photos.user_id``._"
 
@@ -16,7 +16,7 @@ Wie bekommt InstaHub eigentlich heraus, dass ``aaron183`` 12 Fotos hochgeladen h
 
 Die folgenden QR-Codes enthalten Lösungsvorschläge für diese Aufgabe:
 
-![Lösungsvorschläge für Aufgabe 11.1](assets/11-qrcode-SQL.png)
+![Lösungsvorschläge für Aufgabe 11.1](Assets/11-qrcode-SQL.png)
 
 ## Zwei Tabellen verbinden
 
@@ -92,7 +92,7 @@ Diese Funktionen bekommt InstaHub jetzt!
 
 *Analysieren* Sie das folgende ER-Modell für das erweiterte InstaHub!
 
-![InstaHub-ERM Version 2](assets/11-ERM-InstaHub-2.png)
+![InstaHub-ERM Version 2](Assets/11-ERM-InstaHub-2.png)
 
 1. *Beurteilen* Sie die vorgeschlagenen Kardinalitäten!
 2. *Beurteilen* Sie ob das neue Modell die versprochenen neuen Funktionen ermöglicht!
@@ -150,7 +150,7 @@ Wir haben also als Ergebnis eine Liste aller Mitglieder mit Foto-Uploads erzeugt
 
 In der folgenden Abbildung sehen Sie die vier verschiedenen Formen des ``JOINS``:
 
-![Vier ``JOIN``-Arten](assets/11-OUTER-JOIN.png)
+![Vier ``JOIN``-Arten](Assets/11-OUTER-JOIN.png)
 
 1. Beim ``INNER JOIN``  werden wie gesagt nur diejenigen Datensätze in das Zwischenergebnis übernommen , die einen passenden Datensatz *sowohl* in der linken als auch in der rechten Tabelle haben. In SQL kann das Wort ``INNER`` weggelassen werden. 
 2. Beim ``LEFT OUTER JOIN`` werden alle Datensätze in das Zwischenergebnis übernommen, die in der *linken* Tabelle enthalten sind. Wenn es passende Werte in der *rechten* Tabelle gibt, werden diese aufgenommen, ansonsten wird ``NULL`` eingetragen. In SQL kann das Wort ``OUTER`` weggelassen werden.

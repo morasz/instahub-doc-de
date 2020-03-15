@@ -11,7 +11,7 @@ Sie wenden bestimmt Regeln für sichere Passwörter an, unter anderem wissen Sie
 
 Diese naive Vorstellung wird auch in der Lach- und Sachgeschichte "Internet" der Sendung mit der Maus präsentiert:
 
-![Naiver Passwortvergleich in der Lach- und Sachgeschichte "Internet" der Sendung mit der Maus [https://www.wdrmaus.de/filme/sachgeschichten/internet.php5]](assets/08-Passwort-Maus.png)
+![Naiver Passwortvergleich in der Lach- und Sachgeschichte "Internet" der Sendung mit der Maus [https://www.wdrmaus.de/filme/sachgeschichten/internet.php5]](Assets/08-Passwort-Maus.png)
 
 Nun haben sie in der Tabelle `users` ja bereits die Spalte `password` gesehen:
 
@@ -44,7 +44,7 @@ Das klingt merkwürdig. Man muss das Passwort vergleichen können, aber zugleich
 
 Es ist sehr einfach durch die Falltür nach unten zu gelangen, während sich der Weg zurück manchmal als ausgesprochen schwierig, wenn nicht gar unmöglich, erweist:
 
-![Durch eine Falltür geht es nur in eine Richtung leicht hindurch...](assets/08-Falltuer.png)
+![Durch eine Falltür geht es nur in eine Richtung leicht hindurch...](Assets/08-Falltuer.png)
 
 Diese Idee kann man auf das Speichern von Passwörtern übertragen. Wir schicken das Passwort durch die Falltür und speichern das Ergebnis. Bei der Anmeldung schicken wir das eingegebene Passwort ebenfalls durch die Falltür und vergleichen dann das Ergebnis mit dem gespeicherten Wert. Stimmen beide überein, war das Passwort richtig. Klingt erstmal merkwürdig.
 
@@ -101,7 +101,7 @@ _Erklären_ Sie, was ein Wörterbuchangriff und was ein Brute-Force-Angriff ist.
 
 Der Einsatz einer Hashfunktion alleine reicht also leider nicht aus. Wir müssen das entstandene Hackfleisch noch ordentlich würzen. Hierzu verwenden wir Salz (_salt_) und Pfeffer (_pepper_). Informatiker\*innen mögen offenbar keine Zwiebeln.
 
-![Informatiker*Innen mögen offenbar Hackfleisch, aber nur ohne Zwiebel! (Bild von <a href="https://pixabay.com/de/users/webandi-1460261/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1568992">Andreas Lischka</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1568992">Pixabay</a>)](assets/08-Hack.jpg)
+![Informatiker*Innen mögen offenbar Hackfleisch, aber nur ohne Zwiebel! (Bild von <a href="https://pixabay.com/de/users/webandi-1460261/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1568992">Andreas Lischka</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1568992">Pixabay</a>)](Assets/08-Hack.jpg)
 
 Der oben beschriebene Angriff auf die Hashtabelle war ja erfolgversprechend, weil man jeden erzeugten Hashwert in vielen Zeilen und vielen Tabellen suchen konnte. Wenn wir dieses Problem beheben können, sind wir sehr viel weiter. Man kann sich das Vorgehen wie folgt vorstellen:
 
@@ -114,4 +114,4 @@ Ein Server verwendet zur Speicherung der Passwörter SHA-256. Als _salt_ wird de
 2. Der\*Die Nutzer\*in `niclas258` meldet sich mit dem Passwort `TaKaLu908#`an. _Ermitteln_ Sie (z. B. auf www.hashgenerator.de) den zugehörigen Hashwert!
 3. _Überprüfen_ Sie Ihre Lösung, indem Sie den folgenden QR-Code entschlüsseln:
 
-![Lösung Aufgabe 8.6 als QR-Code](assets/08-QR-Hashbeispiel.png)
+![Lösung Aufgabe 8.6 als QR-Code](Assets/08-QR-Hashbeispiel.png)
