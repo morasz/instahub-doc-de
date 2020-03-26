@@ -29,7 +29,7 @@ Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
 6. _Tragen_ Sie unter `Dein/e LehrerIn` den InstaHub-Namen Ihrer Lehrkraft ein. Dies ist ______________________
 
-7. Unter `Name` tragen Sie bitte Ihre Klasse gefolgt Ihrem mit Ihrer Lehrkraft abgesprochenen Pseudonym ein. 
+7. Unter `Name` (_nicht_ Benutzername!) tragen Sie bitte Ihre Klasse gefolgt Ihrem mit Ihrer Lehrkraft abgesprochenen Pseudonym ein. 
 
    Wenn Ihr Pseudonym Hermine ist und Sie in die Klasse BOM19-3 gehen, tragen Sie ein: `BOM19-3 Hermine `.
 
