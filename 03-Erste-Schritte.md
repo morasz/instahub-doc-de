@@ -9,7 +9,7 @@ Zur Arbeit mit InstaHub arbeitet jede\*r Schüler\*in auf einem eigenen InstaHub
 
 Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
-1. *Rufen* Sie InstaHub in Ihrem Browser (**nicht** Internet Explorer!)[^20] auf: https://instahub.org/!
+1. *Rufen* Sie InstaHub in Ihrem Browser (**nicht** Internet Explorer!)[^20] auf: (https://instahub.org/)!
 
    [^20]: InstaHub unterstützt alle gängigen Browser mit Ausnahme des Internet Explorers.
 
