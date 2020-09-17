@@ -85,7 +85,7 @@ _Probieren_ Sie den Befehl aus und _erklären_ Sie, wie er funktioniert. *Beacht
 Der folgende SQL-Befehl zählt die Mitglieder:
 
 ```sql
-SELECT COUNT(*) AS "Registrierte Mitglieder" FROM users
+SELECT COUNT(username) AS "Registrierte Mitglieder" FROM users
 ```
 
 #### Aufgabe 6.5 Aggregatsfunktionen {-}
@@ -95,7 +95,7 @@ _Erstellen_ Sie _je_ eine SQL-Abfrage, die
 1. alle Werte des Feldes `gender` liefert und angibt, wie oft diese auftreten,
 2. die durchschnittliche Größe aller Mitglieder in Dresden liefert und
 3. das Geburtsdatum des jüngsten männlichen und des jüngsten weiblichen Mitglieds liefert.
-4. die Anzahl aller Mitglieder ausgibt.
+4. die Anzahl aller Mitglieder pro Stadt ausgibt
 
 
 
