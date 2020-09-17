@@ -73,7 +73,7 @@ Der folgende SELECT-Befehl liefert für jede Stadt den größten und kleinsten B
 
 ```sql
 SELECT 	city AS "Stadt", MIN(centimeters) AS "kleinsteR", 
-		MAX(centimertes) AS "groessteR"
+		MAX(centimeters) AS "groessteR"
 FROM 	users 
 GROUP BY city
 ```
