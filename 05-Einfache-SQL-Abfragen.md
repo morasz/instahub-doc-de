@@ -140,8 +140,8 @@ Wir könnten nun die Liste nach Städten sortieren und dann scrollen, bis wie be
 
 ``` mysql
 SELECT  username, name, city
-WHERE   city = "Dresden"
 FROM    users
+WHERE   city = "Dresden"
 ```
 
 #### Aufgabe 5.3: Deutschlandreise I {-}
