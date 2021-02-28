@@ -3,9 +3,11 @@
 
 ## Den eigenen Hub erstellen
 
+***ACHTUNG:* Bitte bearbeiten Sie diesen Abschnitt sehr sorgfältig. Der Antragsprozess funktioniert so, aber Unaufmerksamkeiten führen schnell zu Verdruss.**
+
 #### Aufgabe 3.1: Beantragen Sie einen eigenen InstaHub! {-}
 
-Zur Arbeit mit InstaHub arbeitet jede\*r Schüler\*in auf einem eigenen InstaHub. Es hat also jeder sein eigenes soziales Netzwerk.
+Zur Arbeit mit InstaHub arbeitet jede:r Schüler\:in auf einem eigenen InstaHub. Es hat also jeder sein eigenes soziales Netzwerk.
 
 Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
@@ -25,21 +27,21 @@ Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
 ![Einen eigenen InstaHub anlegen - Schritt 3 (Ausschnitt)](Assets/03-CreateInstaHub-3.png)
 
-5. _Notieren_ Sie sich __jetzt__ den Namen Ihres InstaHubs (im Beispiel: `rubinrot18`): ______________________.
+5. _Notieren_ Sie sich __jetzt__ den Namen Ihres InstaHubs (im Beispiel: `rubinrot18`): ______________________. Wenn Sie den Namen Ihres Instahubs vergessen, **kommen Sie nur noch mit Hilfe Ihrer Lehrkraft rein!**
 
 6. _Tragen_ Sie unter `Dein/e LehrerIn` den InstaHub-Namen Ihrer Lehrkraft ein. Dies ist ______________________
 
 7. Unter `Name` (_nicht_ Benutzername!) tragen Sie bitte Ihre Klasse gefolgt Ihrem mit Ihrer Lehrkraft abgesprochenen Pseudonym ein. 
 
-   Wenn Ihr Pseudonym Hermine ist und Sie in die Klasse BOM19-3 gehen, tragen Sie ein: `BOM19-3 Hermine `.
+   Wenn Ihr Pseudonym Hermine ist und Sie in die Klasse BOM20-3 gehen, tragen Sie ein: `BOM20-3 Hermine `.
 
-   _Tragen_ Sie in den folgenden Feldern Angaben ein wie Sie wollen. Denken Sie sich etwas aus, aber nehmen Sie nicht Ihre echten Daten. 
+   _Tragen_ Sie in den folgenden Feldern Angaben ein wie Sie wollen. Denken Sie sich etwas aus, aber nehmen Sie außer der E-Mail-Adresse nicht Ihre echten Daten. 
 
-   Die E-Mail-Adresse ist allerdings hilfreich, um das Passwort zurücksetzen zu können. Wenn Sie auf diese Funktion verzichten können, brauchen sie Ihre E-Mail-Adresse nicht einzugeben.
+   Die E-Mail-Adresse ist hilfreich, **um das Passwort zurücksetzen zu können**. 
 
 9. Wählen Sie ein sicheres Passwort. 
 
-10. _Senden_ Sie Ihre Registrierung durch einen Klick auf `Register`ab und *warten* Sie nun darauf, dass Ihre Lehrkraft Ihren InstaHub frei schaltet. Erst danach kann es für Sie weiter gehen!
+10. _Senden_ Sie Ihre Registrierung durch einen Klick auf `Register`ab und ***warten* Sie nun darauf, dass Ihre Lehrkraft Ihren InstaHub frei schaltet**. Erst danach kann es für Sie weiter gehen!
 
 ## Am eigenen InstaHub anmelden
 
@@ -61,19 +63,19 @@ Nachdem Ihre Lehrkraft Ihren InstaHub nun freigeschaltet hat, können Sie Ihren 
 
 ![Nutzerübersicht](Assets/03-LogInInstaHub-3.png)
 
-   Wie Sie sehen Sie, haben sich ganz ohne Ihr Zutun schon etwa 200 Nutzer\*innen an Ihrem InstaHub angemeldet.[^21]
+   Wie Sie sehen Sie, haben sich ganz ohne Ihr Zutun schon etwa 200 Nutzer\:innen an Ihrem InstaHub angemeldet.[^21]
 
-[^21]:Keine Angst, diese Nutzer\*innen wurden beim Anlegen Ihres InstaHubs angelegt. Es handelt sich **nicht** um echte Menschen. Die Fotos stammen aus Qullen, die den freien Einsatz der Fotos erlauben.
+[^21]:Keine Angst, diese Nutzer\:innen wurden beim Anlegen Ihres InstaHubs angelegt. Es handelt sich **nicht** um echte Menschen. Die Fotos stammen aus Qullen, die den freien Einsatz der Fotos erlauben.
 
-4. Vielleicht werden Sie enttäuscht sein, denn InstaHub ist ja derzeit frei von Fotos. Es gibt irgendwie nur Nutzer\*innen, aber die tun nichts. Das kommt noch.
+4. Vielleicht werden Sie enttäuscht sein, denn InstaHub ist ja derzeit frei von Fotos. Es gibt irgendwie nur Nutzer\:innen, aber die tun nichts. Das kommt noch.
 
-## Nutzer\*innen und Administrator\*innen
+## Nutzer\:innen und Administrator\:innen
 
-Der Account `admin`, der gemeinsam mit Ihrem InstaHub angelegt wurde, ist ein besonderer Account, der viele Dinge kann, die ein\*e normale\*r Nutzer\*in nicht können darf. Zum Beispiel andere Benutzer\*innen löschen. Auch sehen Sie mit Ihrem Administrator-Account Bereiche von InstaHub, die normalen Benutzer\*innen verborgen bleiben. 
+Der Account `admin`, der gemeinsam mit Ihrem InstaHub angelegt wurde, ist ein besonderer Account, der viele Dinge kann, die ein\*e normale\*r Nutzer\:in nicht können darf. Zum Beispiel andere Benutzer\:innen löschen. Auch sehen Sie mit Ihrem Administrator-Account Bereiche von InstaHub, die normalen Benutzer\:innen verborgen bleiben. 
 
-#### Aufgabe 3.3 Ein eigene\*r Nutzer\*in {-}
+#### Aufgabe 3.3 Ein eigene\*r Nutzer\:in {-}
 
-Es wird an einigen Stellen hilfreich sein, wenn Sie in InstaHub auch in die Rolle eine\*r normale\*n Nutzer\*in schlüpfen können.  *Erstellen* Sie einen neuen Benutzeraccount für Ihren InstaHub! 
+Es wird an einigen Stellen hilfreich sein, wenn Sie in InstaHub auch in die Rolle eine\*r normale\*n Nutzer\:in schlüpfen können.  *Erstellen* Sie einen neuen Benutzeraccount für Ihren InstaHub! 
 
 1. Melden sie sich als Administrator ab und rufen Sie Ihren InstaHub auf! (z. B. [rubinrot18.instahub.org]())
 2. Wählen Sie `Account erstellen` und geben Sie wieder minimale Daten ein (s.  oben). Wählen Sie ein sicheres Passwort!
@@ -91,7 +93,7 @@ Es wird an einigen Stellen hilfreich sein, wenn Sie in InstaHub auch in die Roll
 *Melden* Sie sich abwechselnd mit beiden Accounts an und *vergleichen* Sie deren Arbeitsmöglichkeiten! Wenn möglich, melden Sie sich dazu am besten in zwei verschiedenen Browsern gleichzeitig an. Denken Sie daran, dass der Internet Explorer nicht unterstützt wird.
 
 #### Aufgabe 3.5: Ausblick {-}
-Das Hamburger Abendblatt hat wohlwollend über Ihr soziales Netzwerk berichtet. Wie viele der angemeldeten Nutzer\*innen wohnen in Hamburg? 
+Das Hamburger Abendblatt hat wohlwollend über Ihr soziales Netzwerk berichtet. Wie viele der angemeldeten Nutzer\:innen wohnen in Hamburg? 
 
 _Beschreiben_ Sie, wie Sie vorgehen würden, wenn Sie diese Frage mit Ihrem **bisherigen Kenntnisstand**, quasi "von Hand" beantworten müssten!
 
