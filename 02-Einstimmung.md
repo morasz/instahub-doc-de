@@ -1,6 +1,6 @@
 # Bevor es los geht
 
-# Bevor es losgeht:  Datenschutzhinweise
+## Datenschutzhinweise
 
 Die folgende Erklärung wurden mit dem Datenschutzbeauftragen Schule des Ministeriums für Bildung, Wissenschaft des Landes Schleswig-Holstein für das Land Schleswig Holstein abgestimmt. Spätere Änderungen durch den Betreiber von InstaHub werden von der InstaHub einsetzenden Schule überprüft.
 
