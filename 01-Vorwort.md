@@ -9,22 +9,12 @@ Zielgruppe des Skriptes und des unterstützenden Moodle-Kurses sind Schüler*inn
 
 Einige Kapitel sind optional. Sie behandeln interessante Themen, die aber in den späteren Kapiteln nicht wieder aufgegriffen werden. Sie können also weggelassen werden, wenn dies notwendig ist. Eventuell ist auch ein Einsatz im Rahmen der Binnendifferenzierung sinnvoll.
 
-Dies folgenden Kapitel sind **nicht optional**:
+Je nach zur Verfügung stehender Zeit, bestehenden Vorkenntnissen und gewünschtem Fokus kann auf die Behandlung der folgenden Kapitel auch verzichtet werden:
 
-| Nr.      |Kapitel      |Bemerkungen      |
-| ---- | ---- | ---- |
-| 1 | Einstimmung | Auf die Eigenschaften von DBS wird zwar im weiteren Verlauf zurückgegriffen, jedoch in geringem Umfang. Daher kann auf Kapitel 1 verzichtet werde, wenn auch ungerne. |
-| 2 | Erste Schritte                                   |                                                              |
-| 3    | Einfache SQL-Abfragen                            |                                                              |
-| 4    | SQL-Abfragen über mehr als eine Tabelle          |                                                              |
-| 5    |                                                  |                                                              |
-|      |                                                  |                                                              |
-|      |                                                  |                                                              |
-|      |                                                  |                                                              |
-|      |                                                  |                                                              |
-|      |                                                  ||
-|17|Top 10 der Themen, die wir nicht behandelt haben||
-
+- Kapitel 4 Suchmaske
+- Kapitel 8 Passwörter speichern
+- Kapitel 10 Vertiefung ER-Modell
+- Kapitel 11 SQL-Abfragen über mehrere Tabellen (JOIN)
 
 *Reinhard Nitzsche*
 
