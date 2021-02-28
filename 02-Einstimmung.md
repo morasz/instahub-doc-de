@@ -8,8 +8,6 @@ Die folgenden Screenshots geben Ihnen einen Eindruck davon, was Sie in InstaHub 
 
 ![In InstaHub können Sie Fotos hochladen.](Assets/02-InstaHub-Screenshot-1.png)
 
-
-
 ![Sie können Ihren Freund\*innen folgen ...](Assets/02-InstaHub-Screenshot-2.png)
 
 ![... und Ihre Freund\*innen können Ihnen folgen!](Assets/02-InstaHub-Screenshot-3.png)
@@ -19,6 +17,19 @@ Die folgenden Screenshots geben Ihnen einen Eindruck davon, was Sie in InstaHub 
 InstaHub funktioniert also fast wie Instagramm. Inklusive Werbung. Der entscheidende Unterschied ist, dass alles in InstaHub fiktiv ist. Die Menschen gibt es genauso wenig wie die Unternehmen, die die Werbung schalten.
 
 Unter https://instahub.org/#guest können Sie sich schon einmal umsehen.
+
+## Datenbanken?
+
+Eine Datenbank ist wie eine Bank, der man sein Geld bringen kann. Nur eben für Daten. 
+Das schöne an einer Bank ist, das man ihr sein Geld anvertrauen kann, und es auch wieder bekommt, wenn mann will:
+
+![Man kann Banken sein Geld geben und wieder bekommen](Assets/02-Bank.png)
+
+Bei einer Datenbank ist es ganz ähnlich, nur dass die Benutzer:innen statt Geld dort Daten abgeben und wiederholen:
+
+![Datenbanken kann man seine Daten geben und wieder bekommen](Assets/02-Datenbank.png)
+
+
 
 ## Datenbanken sind überall
 
@@ -52,13 +63,15 @@ Wenn  die meisten Datenbanken aus lauter Tabellen bestehen, drängt sich die  Fr
 
 ### Viele Köche verderben nicht immer den Brei
 
-DBMS ermöglichen in der Regel zahlreichen Benutzern gleichzeitig den Zugriff auf die gespeicherten Daten. Man spricht auch von **Mehrbenutzerfähigkeit**.
+DBMS ermöglichen in der Regel zahlreichen Benutzer:innen gleichzeitig den Zugriff auf die gespeicherten Daten. Man spricht auch von **Mehrbenutzerfähigkeit**.
 
-Mehrere Benutzer können also zeitgleich auf eine Tabelle zugreifen,  eventuell sogar auf die selbe Zeile (Bei Datenbanken spricht man von *Datensatz*). Tabellenkalkulationen  erlauben dies in der Regel allenfalls zum lesen.
+Mehrere Benutzer:innen können also zeitgleich auf eine Tabelle zugreifen,  eventuell sogar auf die selbe Zeile (Bei Datenbanken spricht man von *Datensatz*). Tabellenkalkulationen  erlauben dies in der Regel allenfalls zum lesen.
+
+Über diese Möglichkeit verfügen zwar zunehmend auch Tabellenkalkulationen, aber nur in eingeschränkter Weise und nich für eine große Zahl gleichzeitiger Zugriffe.
 
 ### Was ich darf, darfst Du noch lange nicht!
 
-DBMS erlauben **Zugriffsbeschränkungen**. Das heißt, dass nicht alle Benutzer*innen über die selben Rechte verfügen. Einige typische Rechte sind z. B.:
+DBMS erlauben **Zugriffsbeschränkungen**. Das heißt, dass nicht alle Benutzer:innen über die selben Rechte verfügen. Einige typische Rechte sind z. B.:
 
 - Erstellen neuer Tabellen
 - Ändern der Struktur bestehender Tabellen
@@ -69,21 +82,21 @@ DBMS erlauben **Zugriffsbeschränkungen**. Das heißt, dass nicht alle Benutzer*
 
 ### Jedem das Seine
 
-DBMS  müssen den unterschiedlichen Bedürfnissen und Fähigkeiten der Benutzer \*innen Rechnung tragen und für jede Benutzergruppe unterschiedliche  Schnittstellen zur Verfügung stellen. Man spricht von **Mehrbenutzerschnittstellen**.  Z. B. gibt es Oberflächen für gelegentliche Nutzer\*innen, oder Schnittstellen  für die Programmierer\*innen von Datenbankanwendungen oder hochentwickelte  Anfragesprachen für versierte Nutzer\*innen mit sehr speziellen  Informationsbedürfnissen.
+DBMS  müssen den unterschiedlichen Bedürfnissen und Fähigkeiten der Benutzer:innen Rechnung tragen und für jede Benutzergruppe unterschiedliche  Schnittstellen zur Verfügung stellen. Man spricht von **Mehrbenutzerschnittstellen**.  Z. B. gibt es Oberflächen für gelegentliche Nutzer:innen, oder Schnittstellen  für die Programmierer:innen von Datenbankanwendungen oder hochentwickelte  Anfragesprachen für versierte Nutzer:innen mit sehr speziellen  Informationsbedürfnissen.
 
 ### Ich sehe was, was Du nicht siehst!
 
-DBMS  ermöglichen die Einrichtung von Datensichten (*views*), d. h.  unterschiedlicher Perspektiven auf die Datenbank. So könnte z. B. jede\*r  Dozent\*in einer Universität eine Liste aller Teilnehmer*innen seines Kurses  inklusive der vorher besuchten Kurse sehen, obwohl diese Daten in vielen  Tabellen verstreut liegen.
+DBMS  ermöglichen die Einrichtung von Datensichten (*views*), d. h.  unterschiedlicher Perspektiven auf die Datenbank. So könnte z. B. jede:r  Dozent:in einer Universität eine Liste aller Teilnehmer:innen seines Kurses  inklusive der vorher besuchten Kurse sehen, obwohl diese Daten in vielen  Tabellen verstreut liegen.
 
 ### Lass mich mal abschreiben!
 
-Wie viele Stellen im Betrieb benötigen eigentlich die Adresse eine\*r Kund\*in? Mindestens folgende:
+Wie viele Stellen im Betrieb benötigen eigentlich die Adresse eine:r Kund:in? Mindestens folgende:
 
 - Kundenbuchhaltung,
 - Versand und
 - Marketing.
 
-Dieses mehrfache Speichern derselben Sachverhalte nennt man Redundanz. (lat. *redundare* „im Überfluss vorhanden sein“). Redundanz bringt Probleme mit sich: 
+Dieses mehrfache Speichern derselben Sachverhalte nennt man *Redundanz*. (lat. *redundare* „im Überfluss vorhanden sein“). Redundanz bringt Probleme mit sich: 
 
 - Wenn  ein- und dieselben Daten an verschiedenen Stellen gespeichert sind,  werden Daten mehrfach erfasst (mehrfacher Zeitaufwand) und mehrfach  gespeichert (mehrfacher Speicherplatz). 
 - Das wäre noch nicht  so schlimm. Es gibt noch ein viel größeres Problem: Das  der Inkonsistenz. (lat.: *in* nicht, *con* zusammen, *sistere* halten) Die  Wahrscheinlichkeit ist groß, dass irgendwann Versand und  die Kundenbuchhaltung unterschiedliche Adressen verwenden, weil der Kunde  umgezogen ist, aber einer von beiden das nicht mitbekommen hat. Die Pakete gehen dann z. B. schon an die neue Adresse, während die Rechnung an die alte Adresse geht.
@@ -132,7 +145,7 @@ Beachten Sie: Client und Server sind im Sinne der Client-Server-Architektur *Sof
 + Datenbankserver
 + Mailserver
 
-Wenn es InstaHub nicht gebe, wäre der Einsatz von XAMP eine Möglichkeit, im Unterricht mit Datenbanken zu arbeiten. Wir arbeiten aber mit Instahub. Jede\*r Schüler\*in wird im Browser (=Client) die Website von Instahub aufrufen und dort Datenbankabfragen an den Server senden. Sie brauchen den Inhalt Ihres Instahubs also nicht auf einem USB-Stick zu speichern. Ihre Daten sind immer auf dem Server. Alles was Sie brauchen, ist ein Internetfähiger Rechner und eine Internetverbindung.
+Wenn es InstaHub nicht gebe, wäre der Einsatz von XAMPP eine Möglichkeit, im Unterricht mit Datenbanken zu arbeiten. Wir arbeiten aber mit Instahub. Jede:r Schüler:in wird im Browser (=Client) die Website von Instahub aufrufen und dort Datenbankabfragen an den Server senden. Sie brauchen den Inhalt Ihres Instahubs also nicht auf einem USB-Stick zu speichern. Ihre Daten sind immer auf dem Server. Alles was Sie brauchen, ist ein Internetfähiger Rechner und eine Internetverbindung.
 
 ## Quellen zu diesem Kapitel {.unnumbered}
 
