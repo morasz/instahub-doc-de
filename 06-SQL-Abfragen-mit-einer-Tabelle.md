@@ -22,7 +22,7 @@ WHERE	city = "Berlin" AND NOT gender LIKE "female"
 ```
 Die folgende Tabelle zeigt die Bedeutung der logischen Operatoren:
 
-|`A` | `B` | `NOT A` | `A AND B` | `A OR B` |`NOT A AND B` | `NOT(A OR B)` |
+|`A` | `B` | `NOT A` | `A AND B` | `A OR B` |`NOT (A AND B)` | `NOT(A OR B)` |
 |---- |------|----|---|---|---|---|
 |`FALSE`|`FALSE`| `TRUE` |`FALSE`|`FALSE`|||
 |`FALSE`|`TRUE`| `TRUE` |`FALSE`|`TRUE`|||
@@ -37,26 +37,26 @@ _Vervollständigen_ Sie die beiden letzten Spalten in der obigen Tabelle!
 
 _Erstellen_ Sie _je_ eine SQL-Abfrage, die 
 
-1. alle Berliner auflistet, die *Marc* heißen,
+1. alle Berliner:innen auflistet, die *Marc* heißen,
 2. alle Leipziger Frauen auflistet,
 3. alle Linas und Lorenas auflistet, 
 4. alle Männer nach ihrer Körpergröße auflistet, die mindestens 16 Jahre alt sind und
-5. alle Nutzer liefert, die weder männlich noch weiblich sind.
+5. alle Nutzer:innen liefert, die weder männlich noch weiblich sind.
 
 #### Aufgabe 6.4 Logische Operatoren mit Klammern {-}
 
 _Erstellen_ Sie _je_ eine SQL-Abfrage (Tipp: Verwenden Sie Klammern wie beim Taschenrechner), die
 
-1. alle Benutzer mit dem Namen "Xaver" auflistet, die nicht in München oder Nürnberg leben und
-2. alle Benutzer\*Innen auflistet, die 10 cm größer als der Durchschnitt ihrer Geschlechtsgenossen sind. (Die Durchschnittsgröße von Männern beträgt in Deutschland 179,9 cm, die von Frauen 165,9 cm)
+1. alle Benutzer:innen mit dem Namen "Xaver" auflistet, die nicht in München oder Nürnberg leben und
+2. alle Benutzer:innen auflistet, die 10 cm größer als der Durchschnitt ihrer Geschlechtsgenossen sind. (Die Durchschnittsgröße von Männern beträgt in Deutschland 179,9 cm, die von Frauen 165,9 cm)
 
 ## Zusammenfassungen (Aggregate)
 
 Bisher haben Sie bei Abfragen 
 
-+ die Spalten, die angezeigt werden sollen, ausgewählt (Projektion) oder
++ die Spalten, die angezeigt werden sollen, ausgewählt (*Projektion*) oder
 
-+ die Zeilen, die im Ergebnis stehen sollen, ausgewählt (Selektion).
++ die Zeilen, die im Ergebnis stehen sollen, ausgewählt (*Selektion*).
 
 
 Aber was, wenn wir wissen wollen, wie groß unser größtes Mitglied in jeder Stadt ist? Oder wir für jede Stadt wissen wollen, wie viele Mitglieder wir dort haben?
@@ -69,7 +69,7 @@ Aggregate fassen also mehrere Zeilen der Quelltabellen zu einer einzigen Zeile i
 
 #### Aufgabe 6.4 Unser erstes Aggregat {-}
 
-Der folgende SELECT-Befehl liefert für jede Stadt den größten und kleinsten Benutzer:
+Der folgende SELECT-Befehl liefert für jede Stadt die Körpergröße der größten und kleinsten Benutzer:innen:
 
 ```sql
 SELECT 	city AS "Stadt", MIN(centimeters) AS "kleinsteR", 
@@ -85,7 +85,8 @@ _Probieren_ Sie den Befehl aus und _erklären_ Sie, wie er funktioniert. *Beacht
 Der folgende SQL-Befehl zählt die Mitglieder:
 
 ```sql
-SELECT COUNT(username) AS "Registrierte Mitglieder" FROM users
+SELECT 	COUNT(username) AS "Registrierte Mitglieder" 
+FROM 	users
 ```
 
 #### Aufgabe 6.5 Aggregatsfunktionen {-}
@@ -96,9 +97,3 @@ _Erstellen_ Sie _je_ eine SQL-Abfrage, die
 2. die durchschnittliche Größe aller Mitglieder in Dresden liefert und
 3. das Geburtsdatum des jüngsten männlichen und des jüngsten weiblichen Mitglieds liefert.
 4. die Anzahl aller Mitglieder pro Stadt ausgibt
-
-
-
-
-
-
