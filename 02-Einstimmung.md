@@ -1,4 +1,46 @@
-# Einstimmung
+# Bevor es los geht
+
+# Bevor es losgeht:  Datenschutzhinweise
+
+Die folgende Erklärung wurden mit dem Datenschutzbeauftragen Schule des Ministeriums für Bildung, Wissenschaft des Landes Schleswig-Holstein für das Land Schleswig Holstein abgestimmt. Spätere Änderungen durch den Betreiber von InstaHub werden von der InstaHub einsetzenden Schule überprüft.
+
+----
+
+**Liebe Erziehungsberechtigte, liebe Schüler\*innen,**
+
+im Rahmen der Umsetzung KMK-Strategie "Bildung in der Digitalen Welt" beschäftigen wir uns im Unterricht im Fach Berufliche Informatik / Informationstechnik / EDV / Informatik mit dem Schutz persönlicher Daten und wollen in diesem Zusammenhang einen Blick hinter die Kulissen eines sozialen Netzes werfen. 
+
+Wir werden mit InstaHub arbeiten, einem sozialen Netz, das Instagram ähnelt. Anders als Instagram lässt InstaHub uns hinter die Kulissen blicken. So gewinnen die Schüler:innen Einblicke in die Arbeitsweise von sozialen Netzen.
+
+InstaHub (https://instahub.org/) ist ein mit mehreren Preisen versehenes Projekt eines deutschen Informatiklehrers. Der Server wird DSGVO-konform betrieben. Nähere Informationen entnehmen Sie bitte der Website des Projektes.
+
+Die Schüler\*innen/Sie erhalten einen Zugang zu einem eigenen InstaHub, der bereits eine Fülle Daten und Fotos von fiktiven Personen enthält. Genauso fiktiv sind die Werbeanzeigen, die den Schüler:innen/Ihnen angezeigt werden, denn InstaHub ist werbefrei.
+
+Es besteht die Möglichkeit, den eigenen InstaHub für andere Personen freizuschalten und Fotos hochzuladen und zu kommentieren und ggf. auch auf InstaHubs der Mitschüler:innen aktiv zu werden.
+
+Ich werde die Schüler:innen darauf hinweisen/Ich weise Sie darauf hin, dass sie
+
+- wir mit Pseudonymen arbeiten und außer der Lerngruppenbezeichnung keinerlei persönliche Daten eingegeben werden dürfen,
+- beim Hochladen und Kommentieren von Fotos das Urheberrecht und die Persönlichkeitsrechte beachtet werden müssen,
+- die Zugangsdaten auf keinen Fall außerhalb der Lerngruppe verbreitet werden dürfen und
+- ich alle eingegebenen Daten sehe und stichprobenartig kontrolliere.
+
+**Liebe Erziehungsberechtigte**, ich bitte Sie, dies auch noch einmal von Ihrer Seite mit Ihrem Kind zu besprechen. Vielen Dank. 
+
+Alle InstaHubs werden von mir gelöscht, wenn sie unterrichtlich nicht mehr benötigt werden. Sie sind dann unwiederbringlich gelöscht. 
+
+Für Rückfragen stehe ich jederzeit gerne zur Verfügung. Erziehungsberechtigte wenden sich bitte an das Schulbüro, Schüler:innen sprechen mich bitte im Unterricht an.
+
+| Lehrkraft                       | Erziehungsberechtigte           | Schüler\*in                     |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+|                                 |                                 |                                 |
+|                                 |                                 |                                 |
+|                                 |                                 |                                 |
+| <br /><br />Datum, Unterschrift | <br /><br />Datum, Unterschrift | <br /><br />Datum, Unterschrift |
+
+## Quelle:  {.unnumbered}
+
+- KMK (Hrsg.): Bildung in der digitalen Welt. Strategie der Kultusministerkonferenz. 2017. Verfügbar unter https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2018/Strategie_Bildung_in_der_digitalen_Welt_idF._vom_07.12.2017.pdf
 
 ## InstaHub?
 
