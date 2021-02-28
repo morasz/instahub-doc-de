@@ -51,8 +51,9 @@ SQL (_structured query language_) ist eine Programmiersprache, mit der man auf D
 Wenn Sie die Ergebnistabelle ausdrucken wollen, kann es hilfreich sein, die Spaltenbezeichnungen verändern zu können. _Probieren_ Sie aus, was passiert, wenn Sie statt `birthday` den Text `birthday AS "Geburtstag"`eintragen!
 
 ```mysql
-SELECT	 username, name, birthday AS "Geburtstag", 
-		 city AS "Stadt"
+SELECT	 username, name, 
+	 birthday AS "Geburtstag", -- Spalte eingedeutscht
+	 city AS "Stadt" -- Spalte eingedeutscht
 FROM	 users
 ORDER BY birthday ASC
 LIMIT    10
@@ -62,7 +63,8 @@ Mit der Klausel `ORDER BY` können Sie die Ausgabe sortieren lassen, mit `LIMIT`
 
 ### Kommentare{-}
 
-Beginnt eine Zeile beginnt mit zwei Minuszeichen (`--`),  wird diese vom SQL-Interpreter ignoriert:
+In dem vorangegangenen Beispiel hat der SQL-Interpreter alles, was von  ```--``` bis zum Zeilenende kam, ignoriert.
+Beginnt eine Zeile beginnt mit zwei Minuszeichen,  wird diese vom SQL-Interpreter ignoriert:
 
 ```mysql
 -- verschönerte Anfrage
@@ -75,13 +77,13 @@ Man nennt solche ignorierten Zeilen *Kommentar*. Kommentare sind beim Programmie
 
 Es gibt da nur ein Problem: InstaHub verarbeitet nur den ersten Befehl, den man in das SQL-Fenster eingibt. Kommentare sind Befehle. Daher wird der Kommentar "ausgeführt" und nicht die Abfrage.
 
-Also: **Keine Kommentare im SQL-Fenster von InstaHub!**
+Also: **Keine Kommentare als *erste* Zeile im SQL-Fenster von InstaHub!**
 
 Wenn Sie mehrere Zeilen als Kommentar markieren wollen, verwenden Sie `/*` und `*/`:
 
 ```sql
 /* Verschoenerte Abfrage
-   Liefert alle Nutzer*innen nach Geburtstag sortiert. */
+   Liefert alle Nutzer:innen nach Geburtstag sortiert. */
 SELECT   username, name, birthday AS "Geburtstag", 
          city AS "Stadt"
 FROM     users
@@ -99,13 +101,13 @@ _Beschreiben_ Sie, welche Bedeutung die `LIMIT`-Klausel hat!
 
 _Erstellen_ Sie jeweils eine SQL-Abfrage, die die folgenden verbalen Anfragen möglichst schön beantworten:
 
-1. Wer sind die zehn jüngsten InstaHub-User\*Innen?
-2. Wo wohnen die fünf am längsten angemeldeten InstaHub-User\*Innen?
-3. Wer ist der erste InstaHub-User\*in gewesen?
+1. Wer sind die zehn jüngsten InstaHub-User:innen?
+2. Wo wohnen die fünf am längsten angemeldeten InstaHub-User:innen?
+3. Wer ist der erste InstaHub-User:iin gewesen?
 
 ## Dubletten aussortieren
 
-Uns interessiert brennend, in welchen Städten wir bereits mindestens eine/n Nutzer\*In haben. Wir probieren es mit der folgenden Abfrage:
+Uns interessiert brennend, in welchen Städten wir bereits mindestens eine/n Nutzer:in haben. Wir probieren es mit der folgenden Abfrage:
 
 ``` mysql
 SELECT	 city
@@ -129,12 +131,12 @@ Nun werden alle Zeilen aussortiert, die mehr als einmal vorkommen.
 
 _Erstellen_ Sie jeweils eine SQL-Abfrage, die folgenden verbalen Anfragen möglichst schön beantworten:
 
-1. Welche Körpergrößen haben unser Nutzer\*innen?
+1. Welche Körpergrößen haben unser Nutzer:innen?
 2. Welche verschiedenen Werte kommen in der Spalte `role` vor?
 
 ## Datensätze filtern
 
-Welche InstaHub-Nutzer\*Innen leben eigentlich in Dresden?
+Welche InstaHub-Nutzer:innen leben eigentlich in Dresden?
 
 Wir könnten nun die Liste nach Städten sortieren und dann scrollen, bis wie bei _Dresden_ angekommen sind. Das muss einfach gehen. Na klar. Die wohl wichtigste Klausel des `SELECT`-Befehls fehlt uns noch: `WHERE` 
 
@@ -148,10 +150,10 @@ WHERE   city = "Dresden"
 
 _Erstellen_ Sie jeweils eine SQL-Abfrage, die folgenden verbalen Anfragen möglichst schön beantworten:
 
-1. Welche Nutzer\*Innen wohnen in Leipzig?
-2. Welche Nutzer\*Innen haben die Rolle ``dba``?
-3. Welche Nutzer*Innen wohnen in Bokholt-Hanredder?
-4. Welche Nutzer*Innen wohnen in Hamburg?
+1. Welche Nutzer:innen wohnen in Leipzig?
+2. Welche Nutzer:innen haben die Rolle ``dba``?
+3. Welche Nutzer:innen wohnen in Bokholt-Hanredder?
+4. Welche Nutzer:innen wohnen in Hamburg?
 5. Ist Justin Schuster bei uns angemeldet?
 
 #### Aufgabe 5.4 Ups... {-}
@@ -171,9 +173,9 @@ Während mit `%` beliebig viele Zeichen (inklusive keinem) gefunden werden, wird
 
 _Erstellen_ Sie jeweils eine SQL-Abfrage, die folgenden verbalen Anfragen möglichst schön beantworten:
 
-1. Welche Nutzer*Innen wohnen in Hamburg?
-2. Welche Nutzer\*Innen mit dem Namen Schuster sind bei uns angemeldet?
-3. Welche Nutzer*Innen mit dem haben wir, die so klingen wie Meier? (Hier können Sie einen Beifang irrelevanter Datensätze wohl nicht völlig verhindern!)
+1. Welche Nutzer:innen wohnen in Hamburg?
+2. Welche Nutzer:innen mit dem Namen Schuster sind bei uns angemeldet?
+3. Welche Nutzer:innen mit dem haben wir, die so klingen wie Meier? (Hier können Sie einen Beifang irrelevanter Datensätze wohl nicht völlig verhindern!)
 
 ### Numerische Vergleiche
 
@@ -185,9 +187,9 @@ Das funktioniert auch mit Kalenderdaten. `WHERE created_at < "2017-12-31"` liefe
 
 _Erstellen_ Sie jeweils eine SQL-Abfrage, die folgenden verbalen Anfragen möglichst schön beantworten:
 
-1. Welche InstaHub-Nutzer\*Innen sind größer als 188&nbsp;cm?
-2. Welche InstaHub-Nutzer\*Innen sind kleiner als 155&nbsp;cm?
-3. Welche InstaHub-Nutzer\*Innen sind heute am Tag der Aufgabenbearbeitung *nicht* volljährig?
-4. Welche InstaHub-Nutzer*Innen sind älter als 70&nbsp;Jahre?
-5. Gibt es eine/n Nutzer\*In, die am selben Tag Geburtstag hat wie Sie? (Hinweis: Wenn Sie am 12.10.1998 geboren sein sollten, suchen Sie, ob jemand am 12.10.1998 geboren ist!)
+1. Welche InstaHub-Nutzer:innen sind größer als 188&nbsp;cm?
+2. Welche InstaHub-Nutzer:innen sind kleiner als 155&nbsp;cm?
+3. Welche InstaHub-Nutzer:innen sind heute am Tag der Aufgabenbearbeitung *nicht* volljährig?
+4. Welche InstaHub-Nutzer:innen sind älter als 70&nbsp;Jahre?
+5. Gibt es eine/n Nutzer:in, die am selben Tag Geburtstag hat wie Sie? (Hinweis: Wenn Sie am 12.10.1998 geboren sein sollten, suchen Sie, ob jemand am 12.10.1998 geboren ist!)
 
