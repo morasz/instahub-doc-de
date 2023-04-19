@@ -29,19 +29,17 @@ Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
 5. _Notieren_ Sie sich __jetzt__ den Namen Ihres InstaHubs (im Beispiel: `rubinrot18`): ______________________. Wenn Sie den Namen Ihres Instahubs vergessen, **kommen Sie nur noch mit Hilfe Ihrer Lehrkraft rein!**
 
-6. _Tragen_ Sie unter `Dein/e LehrerIn` den InstaHub-Namen Ihrer Lehrkraft ein. Dies ist ______________________
+6. _Tragen_ Sie unter `Dein/e LehrerIn` den InstaHub-Namen Ihrer Lehrkraft ein. Dies ist <u>borowy</u>.
 
-7. Unter `Name` (_nicht_ Benutzername!) tragen Sie bitte Ihre Klasse gefolgt Ihrem mit Ihrer Lehrkraft abgesprochenen Pseudonym ein. 
-
-   Wenn Ihr Pseudonym Hermine ist und Sie in die Klasse BOM20-3 gehen, tragen Sie ein: `BOM20-3 Hermine `.
+7. Unter `Name` (_nicht_ Benutzername!) tragen Sie bitte Ihren Vornamen ein. 
 
    _Tragen_ Sie in den folgenden Feldern Angaben ein wie Sie wollen. Denken Sie sich etwas aus, aber nehmen Sie außer der E-Mail-Adresse nicht Ihre echten Daten. 
 
-   Die E-Mail-Adresse ist hilfreich, **um das Passwort zurücksetzen zu können**. 
+   Die E-Mail-Adresse ist hilfreich, **um das Passwort zurücksetzen zu können**. Hier können Sie Ihre schulische Email-Adresse (\<pc-benutzername>@gy-har.herner.schule) verwenden!
 
 9. Wählen Sie ein sicheres Passwort. 
 
-10. _Senden_ Sie Ihre Registrierung durch einen Klick auf `Register`ab und ***warten* Sie nun darauf, dass Ihre Lehrkraft Ihren InstaHub frei schaltet**. Erst danach kann es für Sie weiter gehen!
+10. _Senden_ Sie Ihre Registrierung durch einen Klick auf `Register` ab und ***warten* Sie nun darauf, dass Ihre Lehrkraft Ihren InstaHub frei schaltet**. Erst danach kann es für Sie weiter gehen!
 
 ## Am eigenen InstaHub anmelden
 
@@ -99,7 +97,6 @@ _Beschreiben_ Sie, wie Sie vorgehen würden, wenn Sie diese Frage mit Ihrem **bi
 
 ## Häufige Fehler beim Anmelden in InstaHub
 
-Achten Sie bitte beim Anmelden immer darauf, dass ...
 
 - Sie auf dem richtigen Hub unterwegs sind, und nicht auf einem falschen oder direkt als Lehrkraft auf instahub.org und 
 - Sie oben links immer den Namen des verwendeten InstaHubs sehen.
