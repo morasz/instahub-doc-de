@@ -15,31 +15,27 @@ Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
    [^20]: InstaHub unterstützt alle gängigen Browser mit Ausnahme des Internet Explorers.
 
-2. *Klicken* Sie unten mittig auf den Button `SchülerInnen`:
-
-![Einen eigenen InstaHub anlegen - Schritt 1](Assets/03-CreateInstahub-1.png)
-
-3. Klicken Sie auf `Hub erstellen`:
+2. Klicken Sie oben Rechts auf `Hub erstellen`:
 
 ![Einen eigenen InstaHub anlegen - Schritt 2](Assets/03-CreateInstaHub-2.png)
 
-4. Sie sehen das folgende Formular (Ausschnitt):
+3. Sie sehen das folgende Formular (Ausschnitt):
 
 ![Einen eigenen InstaHub anlegen - Schritt 3 (Ausschnitt)](Assets/03-CreateInstaHub-3.png)
 
-5. _Notieren_ Sie sich __jetzt__ den Namen Ihres InstaHubs (im Beispiel: `rubinrot18`): ______________________. Wenn Sie den Namen Ihres Instahubs vergessen, **kommen Sie nur noch mit Hilfe Ihrer Lehrkraft rein!**
+4. _Notieren_ Sie sich __jetzt__ den Namen Ihres InstaHubs (im Beispiel: `rubinrot18`): ______________________. Wenn Sie den Namen Ihres Instahubs vergessen, **kommen Sie nur noch mit Hilfe Ihrer Lehrkraft rein!**
 
-6. _Tragen_ Sie unter `Dein/e LehrerIn` den InstaHub-Namen Ihrer Lehrkraft ein. Dies ist <u>borowy</u>.
+5. _Tragen_ Sie unter `Dein/e LehrerIn` den InstaHub-Namen Ihrer Lehrkraft ein. Dies ist <u>borowy</u>.
 
-7. Unter `Name` (_nicht_ Benutzername!) tragen Sie bitte Ihren Vornamen ein. 
+6. Unter `Name` (_nicht_ Benutzername!) tragen Sie bitte Ihren Vornamen ein. 
 
    _Tragen_ Sie in den folgenden Feldern Angaben ein wie Sie wollen. Denken Sie sich etwas aus, aber nehmen Sie außer der E-Mail-Adresse nicht Ihre echten Daten. 
 
    Die E-Mail-Adresse ist hilfreich, **um das Passwort zurücksetzen zu können**. Hier können Sie Ihre schulische Email-Adresse (\<pc-benutzername>@gy-har.herner.schule) verwenden!
 
-9. Wählen Sie ein sicheres Passwort. 
+7. Wählen Sie ein sicheres Passwort. 
 
-10. _Senden_ Sie Ihre Registrierung durch einen Klick auf `Register` ab und ***warten* Sie nun darauf, dass Ihre Lehrkraft Ihren InstaHub frei schaltet**. Erst danach kann es für Sie weiter gehen!
+8. _Senden_ Sie Ihre Registrierung durch einen Klick auf `Register` ab und ***warten* Sie nun darauf, dass Ihre Lehrkraft Ihren InstaHub frei schaltet**. Erst danach kann es für Sie weiter gehen!
 
 ## Am eigenen InstaHub anmelden
 
