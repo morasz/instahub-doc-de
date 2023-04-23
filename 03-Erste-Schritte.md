@@ -67,36 +67,12 @@ Nachdem Ihre Lehrkraft Ihren InstaHub nun freigeschaltet hat, können Sie Ihren 
 
 4. Vielleicht werden Sie enttäuscht sein, denn InstaHub ist ja derzeit frei von Fotos. Es gibt irgendwie nur Nutzer\:innen, aber die tun nichts. Das kommt noch.
 
-## Nutzer\:innen und Administrator\:innen
-
-Der Account `admin`, der gemeinsam mit Ihrem InstaHub angelegt wurde, ist ein besonderer Account, der viele Dinge kann, die ein\*e normale\*r Nutzer\:in nicht können darf. Zum Beispiel andere Benutzer\:innen löschen. Auch sehen Sie mit Ihrem Administrator-Account Bereiche von InstaHub, die normalen Benutzer\:innen verborgen bleiben. 
-
-#### Aufgabe 3.3 Ein eigene\*r Nutzer\:in {-}
-
-Es wird an einigen Stellen hilfreich sein, wenn Sie in InstaHub auch in die Rolle eine\*r normale\*n Nutzer\:in schlüpfen können.  *Erstellen* Sie einen neuen Benutzeraccount für Ihren InstaHub! 
-
-1. Melden sie sich als Administrator ab und rufen Sie Ihren InstaHub auf! (z. B. [rubinrot18.instahub.org]())
-2. Wählen Sie `Account erstellen` und geben Sie wieder minimale Daten ein (s.  oben). Wählen Sie ein sicheres Passwort!
-3. InstaHub sagt, dass der Account noch freigeschaltet werden muss. Das tun Sie als Administrator: Melden Sie sich nun wieder als Administrator an. Suchen Sie über das Kompass-Symbol und die Suchfunktion Ihren neuen Account.
-4. Rufen Sie den Account auf und klicken Sie auf `Bearbeiten`:
-
-![Einen Account bearbeiten](Assets/03-NeuerUser-1.png)
-
-6. Schalten Sie den Account frei, in dem Sie den entsprechenden Haken setzen:
-
-![Einen Benutzer freischalten](Assets/03-NeuerUser-2.png)
-
-#### Aufgabe 3.4 Unterschiede zwischen Benutzer- und Admin-Account {-}
-
-*Melden* Sie sich abwechselnd mit beiden Accounts an und *vergleichen* Sie deren Arbeitsmöglichkeiten! Wenn möglich, melden Sie sich dazu am besten in zwei verschiedenen Browsern gleichzeitig an. Denken Sie daran, dass der Internet Explorer nicht unterstützt wird.
-
 #### Aufgabe 3.5: Ausblick {-}
 Das Hamburger Abendblatt hat wohlwollend über Ihr soziales Netzwerk berichtet. Wie viele der angemeldeten Nutzer\:innen wohnen in Hamburg? 
 
 _Beschreiben_ Sie, wie Sie vorgehen würden, wenn Sie diese Frage mit Ihrem **bisherigen Kenntnisstand**, quasi "von Hand" beantworten müssten!
 
 ## Häufige Fehler beim Anmelden in InstaHub
-
 
 - Sie auf dem richtigen Hub unterwegs sind, und nicht auf einem falschen oder direkt als Lehrkraft auf instahub.org und 
 - Sie oben links immer den Namen des verwendeten InstaHubs sehen.
