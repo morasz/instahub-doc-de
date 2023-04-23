@@ -2,11 +2,14 @@
 title: Technisch-Didaktisches Liesmich für das InstaHub-Skript
 lang: de
 numbersections: true
-author: Reinhard Nitzsche
-VersionODT: 0.2 (21.01.2020)
-version: 0.2 (21.01.2020)
+author: Silas Borowy
+VersionODT: 0.1 (23.04.2023)
+version: 0.1 (23.04.2023)
 ---
 
+
+# Attribution
+Das Skript basiert auf einem Unterrichtsansatz von Julian Dorn und wurde für den Einsatz in der Q1 (3WS) eines nordrhein-westfälischen Gymnasiums angepasst. 
 # Ziel
 
 - Aus den MD-Dateien werden einsatzbereite ODT-, PDF- und EPUB-Dateien erstellt.

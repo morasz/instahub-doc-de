@@ -1,5 +1,5 @@
 ---
 lang: de
 numbersections: true
-VersionODT: 0.3 (05.02.2020)
+VersionODT: 0.1 (23.04.2023)
 ---

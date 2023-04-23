@@ -1,7 +1,7 @@
 ---
 title: Datenbanken
 subtitle: Eine Einführung mit InstaHub
-author: Reinhard Nitzsche
-date: Version 0.3 (05.02.2020)
+author: Silas Borowy
+date: Version 0.1 (23.04.2023)
 ---
 
