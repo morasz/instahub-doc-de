@@ -69,6 +69,8 @@ Mehrere Benutzer:innen können also zeitgleich auf eine Tabelle zugreifen,  even
 
 Über diese Möglichkeit verfügen zwar zunehmend auch Tabellenkalkulationen, aber nur in eingeschränkter Weise und nich für eine große Zahl gleichzeitiger Zugriffe.
 
+![Datenbanksysteme ermöglichen die Mehrbenutzerfähigkeit.](Assets/02-Datenbanksystem.png)
+
 ### Was ich darf, darfst Du noch lange nicht!
 
 DBMS erlauben **Zugriffsbeschränkungen**. Das heißt, dass nicht alle Benutzer:innen über die selben Rechte verfügen. Einige typische Rechte sind z. B.:
