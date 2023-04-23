@@ -31,7 +31,7 @@ Um einen InstaHub zu beantragen, gehen Sie wie folgt vor:
 
    _Tragen_ Sie in den folgenden Feldern Angaben ein wie Sie wollen. Denken Sie sich etwas aus, aber nehmen Sie außer der E-Mail-Adresse nicht Ihre echten Daten. 
 
-   Die E-Mail-Adresse ist hilfreich, **um das Passwort zurücksetzen zu können**. Hier können Sie Ihre schulische Email-Adresse (\<pc-benutzername>@gy-har.herner.schule) verwenden!
+   Die E-Mail-Adresse ist hilfreich, **um das Passwort zurücksetzen zu können**. Hier können Sie Ihre schulische Email-Adresse (\<pc-benutzername\>@gy-har.herner.schule) verwenden!
 
 7. Wählen Sie ein sicheres Passwort. 
 
