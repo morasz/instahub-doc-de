@@ -3,7 +3,6 @@
 + [01 Vorwort](01-Vorwort.md)
 + [02 Einstimmung](02-Einstimmung.md)
 + [03 Erste Schritte](03-Erste-Schritte.md)
-+ [04 Suchmaske](04-Suchmaske.md)
 + [05 Einfache SQL-Abfragen](05-Einfache-SQL-Abfragen.md)
 + [06 SQL-Abfragen mit einer Tabelle](06-SQL-Abfragen-mit-einer-Tabelle.md)  
 + [07 Daten ändern](07-Daten-aendern.md)
