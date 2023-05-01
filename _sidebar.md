@@ -4,6 +4,7 @@
 + [02 Einstimmung](02-Einstimmung.md)
 + [03 Erste Schritte](03-Erste-Schritte.md)
 + [05 Einfache SQL-Abfragen](05-Einfache-SQL-Abfragen.md)
+{::comment} 
 + [06 SQL-Abfragen mit einer Tabelle](06-SQL-Abfragen-mit-einer-Tabelle.md)  
 + [07 Daten ändern](07-Daten-aendern.md)
 + [08 Passwörter speichern](08-Passwoerter-speichern.md)
@@ -18,6 +19,7 @@
 + [17 ERM und Tabellenmodell](17-ERM-und-Tabellenmodell)
 + [18 ERM entwickeln](18-ERM-entwickeln)
 + [19 Top 10 der Themen, die wir nicht behandelt haben](19-Top-10.md)
+{:/comment} 
 + [20 SQL Cheat-Sheet](20-SQL-CheatSheet.md)
 -----
 * [InstaHub](https://instahub.org)
