@@ -103,7 +103,7 @@ _Erstellen_ Sie jeweils eine SQL-Abfrage, die die folgenden verbalen Anfragen m�
 
 1. Wer sind die zehn jüngsten InstaHub-User:innen?
 2. Wo wohnen die fünf am längsten angemeldeten InstaHub-User:innen?
-3. Wer ist der erste InstaHub-User:iin gewesen?
+3. Wer ist der erste InstaHub-User:in gewesen?
 
 ## Dubletten aussortieren
 
