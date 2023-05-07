@@ -4,7 +4,7 @@
 + [02 Einstimmung](02-Einstimmung.md)
 + [03 Erste Schritte](03-Erste-Schritte.md)
 + [04 Einfache SQL-Abfragen (Projektion)](04-Einfache-SQL-Abfragen-Projektion.md)
-+ [05 Einfache SQL-Abfragen (Selektion)](04-Einfache-SQL-Abfragen-Selektion.md)+
++ [05 Einfache SQL-Abfragen (Selektion)](05-Einfache-SQL-Abfragen-Selektion.md)+
 ...
 + [20 SQL Cheat-Sheet](20-SQL-CheatSheet.md)
 -----
